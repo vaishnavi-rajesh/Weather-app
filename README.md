@@ -18,6 +18,3 @@ This is a simple console-based Weather Application that allows users to enter a 
    pip install -r requirements.txt
 3. Run the application:
    python weather.py
-
-## Note
-You need to replace `YOUR_API_KEY_HERE` with your own OpenWeatherMap API key.
